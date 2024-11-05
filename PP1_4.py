@@ -13,23 +13,21 @@ def q1():
 def q2():
   #Write Assignment code here
   name = input("Input your first name: ") 
-  print("Your name is " + name) #prints name out
+  print("Hello " + name) 
 
 def q3():
   #Write Assignment code here
   firstname = input("Input your first name: ")
   lastname = input("Input your last name: ")
 
-  word = f"your name is {firstname} {lastname}"
-  print(word)
+  print(f"{lastname} {firstname}")
 
 def q4():
   #Write Assignment code here
   student1 = input("Input a student: ")
   student2 = input("Input another student: ")
 
-  word = f"your students are {student1} and {student2}"
-  print(word)
+  print(f"your students are {student1} and {student2}")
 
 #Do not edit code below this comment
 
