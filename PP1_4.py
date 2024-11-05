@@ -27,7 +27,7 @@ def q4():
   student1 = input("Input a student: ")
   student2 = input("Input another student: ")
 
-  print(f"your students are {student1} and {student2}")
+  print(f"Your students are {student1} and {student2}")
 
 #Do not edit code below this comment
 
