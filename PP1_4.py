@@ -7,18 +7,18 @@
 
 def q1():
   #Write Assignment code here
-  word = input("Enter a word: ") 
+  word = input("Input a word: ") 
   print(word)
   
 def q2():
   #Write Assignment code here
-  name = input("Enter your name: ") 
+  name = input("Input your first name: ") 
   print("Your name is " + name) #prints name out
 
 def q3():
   #Write Assignment code here
-  firstname = input("Enter your first name: ")
-  lastname = input("Enter your last name: ")
+  firstname = input("Input your first name: ")
+  lastname = input("Input your last name: ")
 
   word = f"your name is {firstname} {lastname}"
   print(word)
